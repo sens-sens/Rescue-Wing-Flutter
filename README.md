@@ -84,13 +84,14 @@ This app is designed for **disaster relief workers** who need an efficient and t
 
 ## 📸 Screenshots
 
+<p align="center">
 
   <img src="lib/assets/github/dashboard.jpeg" alt="Dark Mode Screenshot 1" width="250">
   <img src="lib/assets/github/missions.jpeg" alt="Dark Mode Screenshot 2" width="250">
   <img src="lib/assets/github/new_mission.jpeg" alt="Dark Mode Screenshot 2" width="250">
   <img src="lib/assets/github/takeoff.jpeg" alt="Dark Mode Screenshot 2" width="250">
 
-
+</p>
 ---
 
 ## 📜 License
